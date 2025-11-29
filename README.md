@@ -52,7 +52,7 @@ O funcionamento baseia-se na dificuldade computacional de fatorar grandes númer
 
 ```text
 ========================================
-   FERRAMENTA DE CRIPTOGRAFIA RSA v2.0
+   FERRAMENTA DE CRIPTOGRAFIA RSA 
 ========================================
 
 [Sistema] Iniciando geração de chaves criptográficas...
